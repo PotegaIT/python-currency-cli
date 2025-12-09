@@ -5,6 +5,8 @@
 
 Prosta aplikacja konsolowa w Pythonie do przeliczania PLN na najpopularniejsze waluty (USD, EUR, GBP, CHF, NOK, DKK, CAD, SEK). Pobiera aktualne kursy z API Frankfurter i wyświetla wyniki w czytelnej tabeli. Łatwa w użyciu, interaktywna i idealna do szybkich konwersji walut.
 
+🎥 [Obejrzyj na YouTube już od 29 grudnia 2025 ↗](https://youtu.be/YPS9ToNqCmo)
+
 ## Funkcje
 
 - 💱 Przeliczanie PLN na wiele walut jednocześnie
@@ -80,6 +82,8 @@ Kursy walut: [Frankfurter API](https://frankfurter.dev/)
 ---
 
 A simple Python CLI app to convert PLN to major currencies (USD, EUR, GBP, CHF, NOK, DKK, CAD, SEK). Fetches real-time rates from Frankfurter API and displays results in a clear table. Easy to use, interactive, and perfect for quick currency conversions.
+
+🎥 [Watch on YouTube starting December 29, 2025 ↗](https://youtu.be/YPS9ToNqCmo)
 
 ## Features
 
